@@ -1,0 +1,10 @@
+miss este proyecto lo hicimos en visual studio 2005
+en LA CARPETA ejer2 esta el  JUEGO LLAMADO "proyecto"con sus respectivas libreRias:
+juego.lib
+juego.h
+juego.c
+dicc.h
+Y LOS DOCUMENTOS DE TEXTO
+
+en LA CARPETA PROYECTO2 ESTA LA libreria juego.lib CREADA
+espero que sea de su agrado.. 

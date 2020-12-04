@@ -1,0 +1,14 @@
+Respuesta de Estudiante 1	Lopez Coello Ronny Andres
+
+
+	Nota  27  
+
+ 
+
+(+1)tablero
+
+(+1)uso de estructuras
+
+(+1)muestra archivo top
+
+(-1)no crea el archivo top cuando no existe
