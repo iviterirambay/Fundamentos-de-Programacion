@@ -1,0 +1,12 @@
+Respuesta de Estudiante 1	Vallejo Gordillo Gianina Anabell	
+
+
+Nota  27  
+  
+(+1)tablero
+
+(+1)uso de estructuras
+(+1)dibujo de autor
+
+(-1)no ordena el archivo top
+
